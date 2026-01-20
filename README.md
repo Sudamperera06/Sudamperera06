@@ -1,4 +1,4 @@
-[![ProfileBanner](https://raw.githubusercontent.com/Elapatha2002/Elapatha2002/4c758d2a27bf97fd730d44d3ca17fc8826cf6f65/banner.png)](https://elapatha-portfolio.vercel.app/)
+[![ProfileBanner](https://raw.githubusercontent.com/Elapatha2002/Elapatha2002/4c758d2a27bf97fd730d44d3ca17fc8826cf6f65/banner.png)]
 
 <br><br>
 <h1 align="center">Hi , I'm Pasindu Elapatha <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"><!--horizontal divider(gradiant)-->
