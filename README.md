@@ -1,4 +1,4 @@
-[![ProfileBanner]"C:\Users\stz\Downloads\Copy of Full Stack Developer (1).jpg"]
+[![ProfileBanner](https://www.canva.com/design/DAG-vgKIc0Q/E6gkFkdSkiphI2xEIhyoGw/edit)]
 
 <br><br>
 <h1 align="center">Hi , I'm Pasindu Elapatha <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"><!--horizontal divider(gradiant)-->
