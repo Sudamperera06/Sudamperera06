@@ -1,7 +1,7 @@
 [![ProfileBanner](https://www.canva.com/design/DAG-vgKIc0Q/E6gkFkdSkiphI2xEIhyoGw/edit)]
 
 <br><br>
-<h1 align="center">Hi , I'm Pasindu Elapatha <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"><!--horizontal divider(gradiant)-->
+<h1 align="center">Hi , I'm Sudam Perera <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"><!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1>
 
 <p align="center">
