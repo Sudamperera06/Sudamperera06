@@ -1,4 +1,4 @@
-[![ProfileBanner](https://www.canva.com/design/DAG-vgKIc0Q/E6gkFkdSkiphI2xEIhyoGw/edit)]
+[![ProfileBanner]("D:\work\Github profile\banner2.png")]
 
 <br><br>
 <h1 align="center">Hi , I'm Sudam Perera <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"><!--horizontal divider(gradiant)-->
