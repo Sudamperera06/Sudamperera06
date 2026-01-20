@@ -10,7 +10,7 @@
 
 <!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
 <img  align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
-- 🔭 I’m currently working on **Real World Inventory Management System for Apparel Company**
+- 🔭 I’m currently working on SYNOMATE SOLUTION PVT LTD
 
 - 🌱 I’m currently learning **Docker , AWS , DevOps**
 
