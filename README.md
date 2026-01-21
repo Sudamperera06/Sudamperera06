@@ -1,4 +1,4 @@
-[![ProfileBanner](["D:\work\Github profile\banner2.png"](https://github.com/Sudamperera06/Sudamperera06/blob/main/banner2.png))]
+[![ProfileBanner](https://github.com/Sudamperera06/Sudamperera06/blob/main/banner2.png)]
 
 <br><br>
 <h1 align="center">Hi , I'm Sudam Perera <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"><!--horizontal divider(gradiant)-->
