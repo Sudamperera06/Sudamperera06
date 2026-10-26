@@ -42,7 +42,7 @@
 
 <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="20px"></picture> Programming Languages
 
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CS.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Dart-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Matlab-Light.svg" width="40" height="40"/>
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CS.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Dart-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" width="40" height="40"/>
 <br>
 
 
@@ -54,7 +54,7 @@
 
 <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="20px"></picture> Backend Development
 
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" width="40" height="40"/>
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/FastAPI.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Laravel-Light.svg" width="40" height="40"/>
 <br>
 
 
@@ -66,13 +66,13 @@
 
 <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="20px"></picture> Database
 
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" width="40" height="40"/>
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PostgreSQL-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/SQLite.svg" width="40" height="40"/>
 <br>
 
 
 <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="20px"></picture> DevOps
 
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AWS-Light.svg" width="40" height="40"/>
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AWS-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/GithubActions-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Vercel-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Netlify-Light.svg" width="40" height="40"/>
 <br>
 
 
@@ -96,7 +96,7 @@
 
 <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="20px"></picture> Softwares & Tools
 
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Eclipse-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" width="40" height="40"/>
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Eclipse-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Idea-Light.svg" width="40" height="40"/> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" width="40" height="40"/>
 
 </div>
 
