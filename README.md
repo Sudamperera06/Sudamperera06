@@ -24,6 +24,32 @@
 - 📫 How to reach me **sudam2002rullz@gmail.com**
 <br><br>
 
+<h3 align="center">🚀 Featured Projects</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### [✍️ Sinhala Script Writer](https://github.com/Sudamperera06/sinhala-script-writer)
+A web and mobile app for writing and editing scripts in Sinhala, backed by a Laravel REST API.
+
+`Laravel` `PHP` `JavaScript` `Docker` `Render`
+
+</td>
+<td width="50%" valign="top">
+
+### [🪪 Biometric Driving License Verification](https://github.com/Sudamperera06/biometric-driving-license-verification)
+Verifies driving license holders with face recognition, through a web dashboard and a mobile app.
+
+`Python` `Machine Learning` `React` `Flutter`
+
+</td>
+</tr>
+</table>
+
+<br><br>
+
 <h3 align="center">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1>
 <div align="center">
