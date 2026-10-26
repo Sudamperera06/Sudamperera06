@@ -1,20 +1,23 @@
-![ProfileBanner](https://github.com/Sudamperera06/Sudamperera06/blob/main/banner2.png)
+![ProfileBanner](banner2.png)
 
 <br><br>
 <h1 align="center">Hi , I'm Sudam Perera <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"><!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=25&center=true&vCenter=true&width=900&height=100&lines=Full+Stack+Developer+From+Sri+Lanka+👨‍💻;🔭+I'm+currently+working+on+Real+World+IMS;🌱+I’m+currently+learning+Docker+,+AWS+,+DevOps;💬+Ask+me+about+Java,+react+,+Flutter;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=25&center=true&vCenter=true&width=900&height=100&lines=Full+Stack+Developer+From+Sri+Lanka+👨‍💻;🏢+Working+at+Synomate+Solution;🚀+Building+a+Student+Management+System;🌱+Learning+Docker+,+AWS+,+DevOps;"></a>
 </p>
 
 <!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
 <img  align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
-- 🔭 I’m currently working on SYNOMATE SOLUTION PVT LTD
+
+- 🔭 I’m currently working at **Synomate Solution (Pvt) Ltd**
+
+- 🚀 Building a **Student Management System** with **FastAPI** & **Flutter**
 
 - 🌱 I’m currently learning **Docker , AWS , DevOps**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://elapatha-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/Sudamperera06?tab=repositories)
 
 - 💬 Ask me about **Java, C# , react , Flutter**
 
@@ -25,7 +28,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h1>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sudam-perera06)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudam-perera06)
 [![image](https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sudam.perera.549)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudam2002rullz@gmail.com)
   
@@ -109,14 +112,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=elapatha2002&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Sudamperera06&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=elapatha2002&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudamperera06&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=elapatha2002&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sudamperera06&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -128,7 +131,7 @@
 <h3 align="center" > <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 26px> My Contribution
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></h3>
   
-![snake gif](https://github.com/Elapatha2002/Elapatha2002/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Sudamperera06/Sudamperera06/output/github-snake-dark.svg)
 
 </div>
 
